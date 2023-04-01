@@ -1,0 +1,88 @@
+body{
+    margin-top:0;
+    margin-left:0;
+    margin-right:0;
+}
+header{
+    background-color: rgb(88, 60, 88);
+    font-size:20px;
+    text-align: center;
+    height:50px;
+    margin-top: 0px;
+    padding-top:2px;
+}
+#first{
+    float: left;
+    width:35%;
+    position: relative;
+    right:58px;
+}
+#second{
+    float:right;
+    text-align: left;
+    width:65%;
+}
+h4{
+    color:rgb(101, 99, 99);
+    font-size:20px;
+}
+button{
+    width: 50px;
+    height:40px;
+    margin:15px;
+}
+#btn-1{
+    background-color:#23211f;
+    margin-left:0px;
+    border-radius: 8px;
+    border: 0px;
+}
+#btn-2{
+    background-color:#ca3d22;
+    margin-left:0px;
+    border-radius: 8px;
+    border: 0px;
+}
+#btn-3{
+    background-color: #565681;
+    margin-left:0px;
+    border-radius: 8px;
+    border: 0px;
+}
+#btn-4{
+    background-color:#b9908e;
+    margin-left:0px;
+    border-radius: 8px;
+    border: 0px;
+}
+#fourth
+{
+    margin-left:0px;
+    border-radius: 8px;
+    border: 0px;
+}
+#btn-time{
+    width:80px;
+    height:40px;
+}
+#btn-heartRate{
+    width:80px;
+    height:40px;
+}
+#submit{
+    width:120px;
+    height:40px;
+    color:black;
+    background-color: rgb(222, 191, 20);
+    border:0px;
+    border-radius: 10px;
+}
+#time-show{
+    position:absolute;
+    color:white;
+    font-size:24px;
+    top: 220px;
+    left: 180px;
+    padding: 5px;
+
+}
